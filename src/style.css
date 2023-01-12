@@ -1,0 +1,48 @@
+body {
+  width: auto;
+}
+
+.page {
+  border: 2px solid gray;
+  width: 35%;
+  margin-top: 3rem;
+  text-align: left;
+  margin-left: 3rem;
+}
+
+.header {
+  margin-left: 120px;
+  color: rgb(3 13 52);
+}
+
+.add-todo {
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+
+.butt-in-add-todo {
+  padding: 1px 2px;
+  margin-left: 5px;
+  background-color: transparent;
+  border: medium none;
+}
+
+.todo-list {
+  padding: 0;
+}
+
+.todo-item {
+  width: 50%;
+  margin-left: 120px;
+  list-style: none;
+}
+
+.butt-in-todo-item {
+  background-color: transparent;
+  border: medium none;
+}
+
+.completed {
+  text-decoration: line-through;
+}
